@@ -1,0 +1,6 @@
+so we created a local repository with the 
+    1. git init -b main
+    2. we added our file to the stage area 
+    3. git commited
+the we linked the local repository to the remote repository with 
+    ssh
