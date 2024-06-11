@@ -1,7 +1,7 @@
 so we created a local repository with the 
-    1. git init -b main
+    1. git init -b main ,for new file
     2. we added our file to the stage area 
-    3. git commited
+    3. git commited , for new file 
 the we linked the local repository to the remote repository with 
     ssh
 
